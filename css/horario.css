@@ -1,0 +1,54 @@
+table, td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+.arriba{
+    vertical-align: top;
+}
+.clase{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.derecha{
+    text-align: right;
+}
+td{
+    width: 180px;
+    height: 80px;
+}
+.hora{
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    background-color: gray;
+}
+.cursiva{
+    font-style: italic;
+}
+.eie{
+    background-color: darkseagreen;
+    vertical-align: top;
+}
+.sistemas{
+    background-color: bisque;
+    vertical-align: top;
+}
+.tutoria{
+    background-color: cadetblue;
+    vertical-align: top;
+}
+.redes{
+    background-color: darkkhaki;
+    vertical-align: top;
+}
+.aplicaciones{
+    background-color: lightpink;
+    vertical-align: top;
+}
+.seguridad{
+    background-color: azure;
+    vertical-align: top;
+}
+.patio{
+    background-color: coral;
+}
